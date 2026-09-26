@@ -1,0 +1,4 @@
+{
+  "schema": "https://super-invention-7vq94575v5wxfwp9x-3000.app.github.dev/graphql",
+  "documents": "src/api/graphql/**/*.{js,jsx}"
+}
